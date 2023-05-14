@@ -1,0 +1,1 @@
+We are using FileWriter and FileReader class to write and read respectively from file.
